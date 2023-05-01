@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alir/static/css/main.2784506f.css",
+    "main.js": "/alir/static/js/main.30546438.js",
+    "static/js/787.516e64d7.chunk.js": "/alir/static/js/787.516e64d7.chunk.js",
+    "index.html": "/alir/index.html",
+    "main.2784506f.css.map": "/alir/static/css/main.2784506f.css.map",
+    "main.30546438.js.map": "/alir/static/js/main.30546438.js.map",
+    "787.516e64d7.chunk.js.map": "/alir/static/js/787.516e64d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.30546438.js"
+  ]
+}
